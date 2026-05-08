@@ -11,4 +11,4 @@ Workflow:
 (2) Verify you have specified the correct pixel range using inspect_image. 
 (2) Use extract_image to generate the png images based on provided ranges.
 
-Example method uses the open access FORGE 78B-32 log print that can be found here ____. CITATION.
+Example method uses the open access FORGE 78B-32 log print that can be found here ____. University_Utah_FORGE_78B-32_FMI_Interpretation_20.pdf CITATION.
