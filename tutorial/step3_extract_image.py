@@ -32,8 +32,8 @@ OUTPUT_DIR = os.path.join(
 # ---------------------------------------------------------------------------
 
 WELL_NAME  = "FORGE_78B-32"
-TOP_DEPTH  = 224.7   # metres — depth at the top of the log (first included page)
-BASE_DEPTH = 999.4   # metres — depth at the base of the log (last included page)
+TOP_DEPTH  = 2990   # ft — depth at the top of the log (first included page)
+BASE_DEPTH = 8507   # ft — depth at the base of the log (last included page)
 
 # ---------------------------------------------------------------------------
 # Pages to exclude
