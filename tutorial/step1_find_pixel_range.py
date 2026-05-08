@@ -8,9 +8,14 @@ resulting coordinate dict.  Run this step once per unique page layout
 The coordinates produced here are used in step2_inspect_image.py and
 step3_extract_image.py.
 
+BEFORE RUNNING
+--------------
+Edit the PDF_PATH variable below to point to where
+University_Utah_FORGE_78B-32_FMI_Interpretation_20.pdf is stored on your computer.
+
 USAGE
 -----
-1. Run this file.
+1. Edit PDF_PATH, then run this file.
 2. A matplotlib window opens showing the rendered page. Use the built-in 
    zoom/pan tools to navigate to the top-left corner of the log strip you 
    want to crop.
@@ -31,11 +36,7 @@ from image_extractor import pxl_range
 # PDF path
 # ---------------------------------------------------------------------------
 
-PDF_PATH = (
-    r"C:\Users\irene\Dropbox (Personal)\Cubic-Earth\Marketing\ALT_colab"
-    r"\DigitisingLogPrints\ExampleData"
-    r"\University_Utah_FORGE_78B-32_FMI_Interpretation_20.pdf"
-)
+PDF_PATH = r"C:\PATH\TO\University_Utah_FORGE_78B-32_FMI_Interpretation_20.pdf"  # <-- EDIT THIS
 
 # ---------------------------------------------------------------------------
 # Pages to inspect

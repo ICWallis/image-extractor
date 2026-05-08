@@ -16,11 +16,7 @@ from image_extractor import inspect_image
 # PDF path
 # ---------------------------------------------------------------------------
 
-PDF_PATH = (
-    r"C:\Users\irene\Dropbox (Personal)\Cubic-Earth\Marketing\ALT_colab"
-    r"\DigitisingLogPrints\ExampleData"
-    r"\University_Utah_FORGE_78B-32_FMI_Interpretation_20.pdf"
-)
+PDF_PATH = r"C:\PATH\TO\University_Utah_FORGE_78B-32_FMI_Interpretation_20.pdf"  # <-- EDIT THIS
 
 # ---------------------------------------------------------------------------
 # Pixel coordinates (from step1_find_pixel_range.py)
