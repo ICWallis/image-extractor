@@ -8,7 +8,7 @@ cropped strip as a PNG file named with its depth range, e.g.:
 Output files are saved to the OUTPUT_DIR folder defined below.
 """
 
-from image_extractor import extract_image
+from logprint_extractor import extract_image
 import os
 
 # ---------------------------------------------------------------------------

@@ -30,7 +30,7 @@ USAGE
 8. Update the hard-coded coordinates in step2 and step3 as needed.
 """
 
-from image_extractor import pxl_range
+from logprint_extractor import pxl_range
 
 # ---------------------------------------------------------------------------
 # PDF path

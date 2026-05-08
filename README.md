@@ -1,4 +1,4 @@
-# image_extractor
+# logprint_extractor
 
 A Python package for extracting depth-labelled PNG strips from PDF borehole image log prints.
 

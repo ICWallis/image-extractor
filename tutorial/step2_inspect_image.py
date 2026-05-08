@@ -10,7 +10,7 @@ Run for the first page, a representative middle page, and the last page.
 Close each window after inspecting the crop.
 """
 
-from image_extractor import inspect_image
+from logprint_extractor import inspect_image
 
 # ---------------------------------------------------------------------------
 # PDF path
